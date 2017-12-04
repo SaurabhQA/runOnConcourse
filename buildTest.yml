@@ -5,7 +5,7 @@ image_resource:
   source: {repository: ubuntu}
 
 inputs:
-- name: flight-school
+- name: run-OnConcourse
 
 run:
-  path: ./flight-school/viewFile.sh
+  path: ./runOnConcourse/viewFile.sh
