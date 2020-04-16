@@ -1,4 +1,5 @@
 #!/bin/bash
+# Adding a new comment
 set -x
 #cat /proc/meminfo
 echo "This is the content of dir"
